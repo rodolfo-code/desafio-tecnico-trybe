@@ -2,7 +2,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const allowCors = require('./cors');
 
-const PORT = 3000;
+const PORT = 3003;
 
 const app = express();
 
